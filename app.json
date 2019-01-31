@@ -76,7 +76,7 @@
       "description": "Share bridge - Your user name for the Share service. ENSURE bridge is in ENABLE if you want to use the share bridge.",
       "value": "",
       "required": false
-    },
+     "minimed-connect-to-nightscout": "https://github.com/szymjaw/minimed-connect-to-nightscout.git#nightscoutpl", 
     "BRIDGE_PASSWORD": {
       "description": "Share bridge - Your password for the Share service. ENSURE bridge is in ENABLE if you want to use the share bridge.",
       "value": "",
